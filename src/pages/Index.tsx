@@ -1,7 +1,7 @@
-import { SecureChatApp } from "@/components/SecureChatApp";
+import { IncidentPortalApp } from "@/components/IncidentPortalApp";
 
 const Index = () => {
-  return <SecureChatApp />;
+  return <IncidentPortalApp />;
 };
 
 export default Index;
